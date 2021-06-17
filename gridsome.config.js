@@ -8,6 +8,7 @@ module.exports = {
   siteName: 'অনলাইন মাদ্রাসায়',
   siteUrl: 'https://metaroot.github.io',
   pathPrefix: '/nadir-faisal-online-madrassa',
+  
   plugins: [
     {
       use: "@gridsome/source-filesystem",
