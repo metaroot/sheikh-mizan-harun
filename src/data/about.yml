@@ -1,0 +1,43 @@
+aboutMe:
+  name: মীযান হারুনের
+  title: আকীদাহ ত্বহাবিয়ার এর উপর এম ফিল 
+  bio: উস্তাদ মীযান হারুনের সম্পর্ক এখানে জানতে পারবেন
+  long_summary_title: উস্তাদের সম্পর্কে
+  long_summary: সবার আগে ঈমান। সচেতন মুসলিম মানেই তা সহজে উপলব্ধি করে থাকে। আর এই ঈমানের আলোচনা আকীদা শাস্ত্রে হয়ে থাকে। আকীদার উপর উচ্চতর পড়াশোনা করা এবং গবেষক আলেম হচ্ছেন উস্তাজ মীযান হারুন। বর্তমানে এম.ফিল গবেষক হিসেবে আছেন কিং সৌদ ইউনিভার্সিটিতে। 
+  
+  hashtags: 
+    - '#কুরআন 
+    - '#হাদীস'
+    - '#উসুলে_ফিকহ'
+    - '#আকীদাহ'
+  # timeline: 
+  #   - event: 1000 AD
+  #     caption: I was born.
+  #     desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
+  #   - event: 1403 AD
+  #     caption: I went to school.
+  #     desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
+  #   - event: 1402 AD
+  #     caption: I graduated.
+  #     desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
+  # skills:
+  #   - name: Java
+  #     rank: 8
+  #   - name: Node.js
+  #     rank: 9
+  #   - name: HTML
+  #     rank: 10
+  #   - name: CSS
+  #     rank: 10
+  #   - name: Javascript
+  #     rank: 7
+  #   - name: Python
+  #     rank: 8
+  #   - name: MySQL
+  #     rank: 9
+  #   - name: Go
+  #     rank: 5
+  #   - name: MongoDB
+  #     rank: 10
+  #   - name: Ruby
+  #     rank: 7
